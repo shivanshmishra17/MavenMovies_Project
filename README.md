@@ -2,7 +2,7 @@
 
 This Project is based on MavenMovies database which was taken from 'Maven Analytics MySQL for Data Analysis' course. 
 
-Different data manipulation queries were performed to assess the skills learned.
+Different data manipulation queries were performed using advanced joins and subqueries to assess the skills learned.
 
 **Tools Used:**
 MySQL
